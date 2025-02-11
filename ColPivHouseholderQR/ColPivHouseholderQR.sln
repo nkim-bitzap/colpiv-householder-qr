@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColPivHouseholderQR", "ColPivHouseholderQR\ColPivHouseholderQR.csproj", "{60685A8B-837C-4376-9BC0-E789EFA06297}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{2B428305-D9A6-44FD-9185-F9A6FCFA9E15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{60685A8B-837C-4376-9BC0-E789EFA06297}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60685A8B-837C-4376-9BC0-E789EFA06297}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60685A8B-837C-4376-9BC0-E789EFA06297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B428305-D9A6-44FD-9185-F9A6FCFA9E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B428305-D9A6-44FD-9185-F9A6FCFA9E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B428305-D9A6-44FD-9185-F9A6FCFA9E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B428305-D9A6-44FD-9185-F9A6FCFA9E15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
