@@ -28,5 +28,5 @@ var result = qr.Solve(b);
 This extension provides a QR factorization of matrices using Householder
 transformations with addition of column pivoting. The implementation is closely
 based on the algorithm as found in the Eigen C++ library and can therefore be
-seen as a clone of it.
+seen as a copy/clone of it.
 
